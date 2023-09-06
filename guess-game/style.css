@@ -1,0 +1,25 @@
+*{
+margin: 0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+.container{
+    height: 60%;
+    width: 70%;
+    margin-top:20% ;
+    color: black;
+    text-align: center;
+}
+.container h1{
+    font-size: 80px;
+}
+.container p{
+    font-size: 35px;
+    padding: 5px;
+}
+input{
+    font-size: 20px;
+}
+#guess{
+    font-size: 30px;
+}
